@@ -14,7 +14,7 @@
   <dt>CI/CD Tool</dt>
   <dd>Github Actions</dd>
   <dt>Infrastructure</dt>
-  <dd>Azure<dd>
+  <dd>AWS<dd>
   <dt>IaC</dt>
   <dd>Terraform<dd>
 </dl> 
